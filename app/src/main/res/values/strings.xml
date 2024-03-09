@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tool Tracker</string>
+
+    <string name="my_tools">My Tools</string>
+    <string name="my_friends">My Friends</string>
+    <string name="total_tools">You have %1$d tools in total</string>
+    <string name="borrowed_tools">You have %1$d borrowed tools</string>
+    <string name="borrowed_tools_friend">Borrow %1$d item</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choose_your_friend">Choose your friend</string>
+    <string name="available">Available</string>
+    <string name="borrowed">Borrowed</string>
+    <string name="lend">Lend</string>
+    <string name="ok">Ok</string>
+    <string name="choose_friend">Choose Friend</string>
+    <string name="please_choose_your_friend">Please check again your input</string>
+    <string name="borrowed_tools_list">Borrowed Tools</string>
+    <string name="detail_friend">Detail Friend</string>
+    <string name="returned">Return</string>
+
+</resources>

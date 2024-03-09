@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Tool.FullScreenDialog" parent="Theme.MaterialComponents.Light.DialogWhenLarge">
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="colorAccent">@color/blue_summer</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@style/Animation.Design.BottomSheetDialog</item>
+    </style>
+
+    <style name="AppBottomSheetDialogTheme"
+        parent="Theme.MaterialComponents.Light.BottomSheetDialog">
+
+        <item name="bottomSheetStyle">@style/CustomBottomSheetStyle</item>
+    </style>
+
+    <style name="CustomBottomSheetStyle"
+        parent="Widget.Design.BottomSheet.Modal">
+
+        <item name="android:background">@drawable/bg_bottom_sheet</item>
+    </style>
+</resources>
